@@ -1,5 +1,5 @@
 # Student Management System
-This full stack will handle both frontend implementation with HTML5, CSS, JAVASCRIPT, MONGO DB ATLAS for the database
+This full stack web application will handle both frontend implementation with HTML5, CSS, JAVASCRIPT, MONGO DB ATLAS for the database
 
 ## Features
 - Student registration form
